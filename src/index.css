@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-tittle {
+  font-family: "Work Sans", serif;
+  font-weight: 500;
+}
